@@ -3,8 +3,10 @@
 *.env
 .env.*
 
-# Generated results
+# Generated results / local search cache
 *.csv
+discovery_cache.json
+discovery_cache.json.tmp
 
 # Python
 __pycache__/
